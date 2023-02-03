@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Questions
+Aiming to log my LeetCode progress daily.
